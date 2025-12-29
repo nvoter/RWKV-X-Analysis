@@ -1,0 +1,86 @@
+[
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "0k",
+    "task": "qa1",
+    "accuracy": 50.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "0k",
+    "task": "qa2",
+    "accuracy": 58.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "0k",
+    "task": "qa3",
+    "accuracy": 40.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "0k",
+    "task": "qa4",
+    "accuracy": 31.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "1k",
+    "task": "qa1",
+    "accuracy": 8.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "1k",
+    "task": "qa2",
+    "accuracy": 12.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "1k",
+    "task": "qa3",
+    "accuracy": 32.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "1k",
+    "task": "qa4",
+    "accuracy": 23.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "2k",
+    "task": "qa1",
+    "accuracy": 5.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "2k",
+    "task": "qa2",
+    "accuracy": 10.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "2k",
+    "task": "qa3",
+    "accuracy": 30.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-3.6B-64k-Base",
+    "length": "2k",
+    "task": "qa4",
+    "accuracy": 25.0,
+    "n": 100
+  }
+]

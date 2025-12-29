@@ -1,0 +1,13 @@
+model,length,task,accuracy,n
+RWKV-X-0.2B-64k-Instruct,0k,qa1,25.0,100
+RWKV-X-0.2B-64k-Instruct,0k,qa2,21.0,100
+RWKV-X-0.2B-64k-Instruct,0k,qa3,15.0,100
+RWKV-X-0.2B-64k-Instruct,0k,qa4,30.0,100
+RWKV-X-0.2B-64k-Instruct,1k,qa1,4.0,100
+RWKV-X-0.2B-64k-Instruct,1k,qa2,11.0,100
+RWKV-X-0.2B-64k-Instruct,1k,qa3,15.0,100
+RWKV-X-0.2B-64k-Instruct,1k,qa4,15.0,100
+RWKV-X-0.2B-64k-Instruct,2k,qa1,5.0,100
+RWKV-X-0.2B-64k-Instruct,2k,qa2,6.0,100
+RWKV-X-0.2B-64k-Instruct,2k,qa3,9.0,100
+RWKV-X-0.2B-64k-Instruct,2k,qa4,8.0,100

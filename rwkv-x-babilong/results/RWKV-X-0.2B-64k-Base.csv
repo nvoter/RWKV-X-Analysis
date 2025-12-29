@@ -1,0 +1,13 @@
+model,length,task,accuracy,n
+RWKV-X-0.2B-64k-Base,0k,qa1,15.0,100
+RWKV-X-0.2B-64k-Base,0k,qa2,43.0,100
+RWKV-X-0.2B-64k-Base,0k,qa3,21.0,100
+RWKV-X-0.2B-64k-Base,0k,qa4,32.0,100
+RWKV-X-0.2B-64k-Base,1k,qa1,13.0,100
+RWKV-X-0.2B-64k-Base,1k,qa2,11.0,100
+RWKV-X-0.2B-64k-Base,1k,qa3,21.0,100
+RWKV-X-0.2B-64k-Base,1k,qa4,15.0,100
+RWKV-X-0.2B-64k-Base,2k,qa1,8.0,100
+RWKV-X-0.2B-64k-Base,2k,qa2,10.0,100
+RWKV-X-0.2B-64k-Base,2k,qa3,13.0,100
+RWKV-X-0.2B-64k-Base,2k,qa4,8.0,100

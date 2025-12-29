@@ -1,0 +1,86 @@
+[
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "0k",
+    "task": "qa1",
+    "accuracy": 25.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "0k",
+    "task": "qa2",
+    "accuracy": 21.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "0k",
+    "task": "qa3",
+    "accuracy": 15.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "0k",
+    "task": "qa4",
+    "accuracy": 30.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "1k",
+    "task": "qa1",
+    "accuracy": 4.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "1k",
+    "task": "qa2",
+    "accuracy": 11.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "1k",
+    "task": "qa3",
+    "accuracy": 15.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "1k",
+    "task": "qa4",
+    "accuracy": 15.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "2k",
+    "task": "qa1",
+    "accuracy": 5.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "2k",
+    "task": "qa2",
+    "accuracy": 6.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "2k",
+    "task": "qa3",
+    "accuracy": 9.0,
+    "n": 100
+  },
+  {
+    "model": "RWKV-X-0.2B-64k-Instruct",
+    "length": "2k",
+    "task": "qa4",
+    "accuracy": 8.0,
+    "n": 100
+  }
+]
